@@ -1,5 +1,6 @@
 # Single Image Rain Removal Boosting via Directional Gradient (ICME'20)
-[paf TAB]()
+[paf TAB]
+
 [Wu Ran](https://github.com/Schizophreni), [Youzhao Yang](https://nnuyi.github.io/), and [Hong Lu](http://homepage.fudan.edu.cn/honglu/)
 
 # Abstract
@@ -27,11 +28,11 @@ Some visual results of real scene
 </div>
 
 # Citation
-‘’‘
+```
 @inproceedings{ran2020single,
       title={Single Image Rain Removal Boosting via Directional Gradient},
       author={Ran, Wu, Yang, Youzhao and Lu, Hong},   
       booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
       year={2020}
 }
-’‘’
+```
