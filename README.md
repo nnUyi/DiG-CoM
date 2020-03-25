@@ -21,7 +21,7 @@ You can test your own img by adding you image to folder imgs, note that the form
 >* Some details or errors will be released later
 >* Have implemented a fast bilateral filter and a mean filter for obtaining a coarse result
 
-# Result
+# Derained Result
 Some visual results of real scene
 
 <div align="center">
