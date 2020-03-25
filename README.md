@@ -7,7 +7,7 @@
 Image rain removal has been widely studied with traditional methods and learning based methods for years. However, traditional methods like Gaussian mixture model and dictio- nary learning methods are time consuming and fail to well tackle images with heavy rain streaks since image patches are severely contaminated. By considering the line-like property and angle distribution of rain streaks, this problem can be well solved. In this paper, by introducing Directional Gradient operator of arbitrary direction, we propose an efficient and ro- bust Constraints based Model (DiG-CoM) for single image rain removal. Moreover, a density metric of rain streaks is applied to generalize the proposed model to light and heavy rain streak occasions. Extensive experiments on synthetic datasets demonstrate that the proposed model outperforms GMM and JCAS while requiring less time. Furthermore, on real-world occasions, the proposed method obtains better generalization ability compared with the state-of-the-art learning based methods. 
 
 <div align="center">
-    <img src="DiG-CoM/framework.png" height="480"/>
+    <img src="DiG-CoM/framework.png" height="320"/>
 </div>
 
 
