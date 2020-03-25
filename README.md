@@ -1,5 +1,5 @@
 # Single Image Rain Removal Boosting via Directional Gradient (ICME'20)
-[paf TAB][DerainZoo](https://github.com/nnUyi/DerainZoo)
+[paf TAB][[DerainZoo](https://github.com/nnUyi/DerainZoo)]
 
 [Wu Ran](https://github.com/Schizophreni), [Youzhao Yang](https://nnuyi.github.io/), and [Hong Lu](http://homepage.fudan.edu.cn/honglu/)
 
