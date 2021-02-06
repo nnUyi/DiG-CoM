@@ -1,5 +1,5 @@
 # Single Image Rain Removal Boosting via Directional Gradient (ICME'20)
-[pdf](https://ieeexplore.ieee.org/document/9102800)[[DerainZoo](https://github.com/nnUyi/DerainZoo)]
+[[pdf](https://ieeexplore.ieee.org/document/9102800)][[DerainZoo](https://github.com/nnUyi/DerainZoo)]
 
 [Wu Ran](https://github.com/Schizophreni), [Youzhao Yang](https://nnuyi.github.io/), and [Hong Lu](http://homepage.fudan.edu.cn/honglu/)
 
